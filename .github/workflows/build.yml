@@ -24,7 +24,7 @@ on:
   workflow_dispatch:
     inputs:
       serverUrl:
-        description: 'https://remote.zax.sulitons'     
+        description: 'https://remote.zax.solutions'     
         required: true
       rid:
         description: 'Server Runtime Identifier'     
